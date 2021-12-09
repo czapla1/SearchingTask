@@ -3,6 +3,7 @@ package searchEngine;
 public class Document {
 
     private final String title;
+    private final String newTitle;
     private final String content;
     private final int totalWords;
 
